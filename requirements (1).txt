@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+openai
+requests
+matplotlib
+plotly
+scikit-learn
+speechrecognition
+pyaudio
+whisper
+opencv-python
+google-generativeai
+python-jose[cryptography]
+beautifulsoup4
